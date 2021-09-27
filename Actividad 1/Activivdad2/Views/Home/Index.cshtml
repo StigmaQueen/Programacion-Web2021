@@ -1,0 +1,27 @@
+﻿@model Activivdad2.Models.Promedio
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calcular Promedio</title>
+</head>
+<body>
+
+    <form action="/" method="post">
+        <h2>Promediar clificaciones</h2><br />
+        <input type="number" name="Cal1" value="@Model.Cal1" /> <br /><br />
+        <input type="number" name="Cal2" value="@Model.Cal2" /> <br /><br />
+        <input type="number" name="Cal3" value="@Model.Cal3" /> <br /><br />
+        <input type="submit" name="Resultado" />
+        <p>Resultado: @Model.Resultado</p>
+        <p>
+            Estado: @if (Model.Resultado >= 70)
+            {
+            <p>Aprobado </p>}
+        else
+        {<p>Reprobado </p>}</p>
+    </form>
+
+
+</body>
+</html>

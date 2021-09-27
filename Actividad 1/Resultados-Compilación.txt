@@ -1,0 +1,4 @@
+﻿Operación Limpiar iniciada...
+1>------ Operación Limpiar iniciada: proyecto: Activivdad2, configuración: Debug Any CPU ------
+2>------ Operación Limpiar iniciada: proyecto: Actividad 1, configuración: Debug Any CPU ------
+========== Limpiar: 2 correctos, 0 incorrectos, 0 omitidos ==========
