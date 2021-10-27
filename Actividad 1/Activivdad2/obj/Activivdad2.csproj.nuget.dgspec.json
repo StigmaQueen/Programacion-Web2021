@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj": {}
+    "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj": {
+    "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj",
+        "projectUniqueName": "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj",
         "projectName": "Activivdad2",
-        "projectPath": "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj",
+        "projectPath": "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Activivdad2\\Activivdad2.csproj",
         "packagesPath": "C:\\Users\\Cecilia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Activivdad2\\obj\\",
+        "outputPath": "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Activivdad2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

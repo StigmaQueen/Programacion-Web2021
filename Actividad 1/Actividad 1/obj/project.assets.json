@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Actividad 1\\Actividad 1.csproj",
+      "projectUniqueName": "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Actividad 1\\Actividad 1.csproj",
       "projectName": "Actividad 1",
-      "projectPath": "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Actividad 1\\Actividad 1.csproj",
+      "projectPath": "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Actividad 1\\Actividad 1.csproj",
       "packagesPath": "C:\\Users\\Cecilia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cecilia\\Desktop\\Programacion web 2021\\Actividad 1\\Actividad 1\\obj\\",
+      "outputPath": "C:\\Users\\Cecilia\\Desktop\\Progra owo\\Programacion-Web2021\\Actividad 1\\Actividad 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
