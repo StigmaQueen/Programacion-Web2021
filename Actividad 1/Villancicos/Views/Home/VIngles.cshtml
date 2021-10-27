@@ -1,0 +1,8 @@
+﻿@model IEnumerable<Villancicos.Models.Villancico>
+@{Layout = "Layout";}
+<ul>
+    @foreach (var lista in Model)
+    {
+        <li><a href="~/Villancico/@lista.Nombre.Replace(" ","-")">@lista.Nombre</a></li>
+    }
+</ul>

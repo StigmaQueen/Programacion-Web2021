@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad1", "Unidad1", "{6DCA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unidad2", "Unidad2", "{9B5692DA-8978-40C7-9C6B-2B3DB21EB5EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Villancicos", "Villancicos\Villancicos.csproj", "{CD7C8AFD-36F2-48EB-81F0-9D651E9C7228}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{F7EB6B26-DB6D-40FE-835F-990767B9A3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7EB6B26-DB6D-40FE-835F-990767B9A3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7EB6B26-DB6D-40FE-835F-990767B9A3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7C8AFD-36F2-48EB-81F0-9D651E9C7228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7C8AFD-36F2-48EB-81F0-9D651E9C7228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7C8AFD-36F2-48EB-81F0-9D651E9C7228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7C8AFD-36F2-48EB-81F0-9D651E9C7228}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1DDCB610-4A8C-4E4F-89A7-03EE943C8410} = {6DCA36B3-6104-4311-BF84-401F0438C353}
 		{F7EB6B26-DB6D-40FE-835F-990767B9A3F6} = {6DCA36B3-6104-4311-BF84-401F0438C353}
+		{CD7C8AFD-36F2-48EB-81F0-9D651E9C7228} = {9B5692DA-8978-40C7-9C6B-2B3DB21EB5EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {322787AB-2E59-491D-AF2E-DE7A0B4EB9A3}

@@ -1,0 +1,15 @@
+﻿
+@model Villancicos.Models.Villancico
+@{ Layout = "Layout";}
+<nav>
+    <a href="~/">Regresar</a>
+</nav>
+<h2>@Model.Nombre</h2>
+<h3>@Model.Compositor, @if (Model.Anyo == null)
+{<text>Año Desconocido</text>}@Model.Anyo</h3>
+<iframe width="560" height="315" src="@Model.VideoUrl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<article>
+    <p>
+        @Html.Raw(Model.Letra)
+    </p>
+</article>
