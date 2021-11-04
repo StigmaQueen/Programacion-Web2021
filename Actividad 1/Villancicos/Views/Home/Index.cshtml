@@ -1,13 +1,8 @@
 ﻿
 
 @model IEnumerable<Villancicos.Models.Villancico>
-@{ Layout = "Layout";}
+@{ Layout = "Layout2";}
 
-<div class="menu">
-    <a href="~/" class="active">Todos</a>
-    <a href="~/Ingles">En inglés</a>
-    <a href="~/Español">En español</a>
-</div>
 <ul>
 
     @foreach (var lista in Model)
